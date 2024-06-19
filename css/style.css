@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+#signup {
+  width: 50%;
+  max-width: 520px;
+  margin: 74px auto 0px;
+  padding: 0px 24px;
+  align-items: center;
+  background: #e9e8e8;
+}
+
+header {
+  width: 100%;
+  background-color: black;
+  color: #f8f8f8;
+  padding: 10px;
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
+#risco {
+  background: #e0326f;
+  padding: 1.5px;
+  border-radius: 20px;
+  width: 10%;
+  margin: 0px auto;
+}
+.imagem {
+  width: 10px;
+}
